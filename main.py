@@ -12,3 +12,5 @@ if palpite<aleatorio:
     print("Puxa, você chutou baixo D+")
 if palpite==aleatorio:
     print("Aeeee!!!, acertou em cheio!")
+
+# bom dia :)
